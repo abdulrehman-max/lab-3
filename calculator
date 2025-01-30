@@ -1,2 +1,17 @@
 console.writeline(" Name= Abdul rehman");
 console.writeline(" roll no= 24-st-076");
+
+
+   {
+        double a = 10, b = 2;
+        
+        if (b != 0)
+        {
+            double division = a / b;
+            Console.WriteLine("Division: " + division);
+        }
+        else
+        {
+            Console.WriteLine("Error: Division by zero is not allowed.");
+        }
+    }
