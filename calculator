@@ -1,2 +1,8 @@
 console.writeline(" Name= Abdul rehman");
 console.writeline(" roll no= 24-st-076");
+
+
+       int a = 10, b = 5;
+        int difference = a - b;
+        Console.WriteLine("Difference: " + difference);
+    }
