@@ -2,6 +2,7 @@ console.writeline(" Name= Abdul rehman");
 console.writeline(" roll no= 24-st-076");
 
 
+ division
    {
         double a = 10, b = 2;
         
@@ -14,4 +15,9 @@ console.writeline(" roll no= 24-st-076");
         {
             Console.WriteLine("Error: Division by zero is not allowed.");
         }
+    {
+        int a = 5, b = 10;
+        int product = a * b;
+        Console.WriteLine("Product: " + product);
+        multiplication
     }
