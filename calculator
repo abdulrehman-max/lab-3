@@ -2,7 +2,13 @@ console.writeline(" Name= Abdul rehman");
 console.writeline(" roll no= 24-st-076");
 
 
+ addition
+   {
+        int a = 5, b = 10;
+        int sum = a + b;
+        Console.WriteLine("Sum: " + sum);
        int a = 10, b = 5;
         int difference = a - b;
         Console.WriteLine("Difference: " + difference);
+ substraction
     }
